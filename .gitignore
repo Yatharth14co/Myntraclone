@@ -1,0 +1,42 @@
+*.log
+logs/
+bin/
+obj/
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.env
+.env.local
+.env.*.local
+node_modules/
+dist/
+build/
+.next/
+out/
+# Backend
+*.dll
+*.exe
+*.pdb
+.vs/
+Properties/launchSettings.json
+# Frontend
+.vercel
+.env.production.local
+# IDE
+.idea/
+*.iml
+# Database
+*.mdf
+*.ldf
+*.sqlite
+*.db
+# Testing
+TestResults/
+coverage/
+# OS
+Thumbs.db
+.AppleDouble
+.LSOverride

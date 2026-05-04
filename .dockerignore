@@ -1,0 +1,11 @@
+*.log
+bin/
+obj/
+.vs/
+.vscode/
+node_modules/
+dist/
+*.sqlite
+*.db
+.env
+.env.local
